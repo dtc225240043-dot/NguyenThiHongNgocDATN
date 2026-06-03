@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Thuê nhà chung",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "租房", "pinyin": "zū fáng", "meaning": "thuê nhà" },
+      { "word": "合租", "pinyin": "hé zū", "meaning": "thuê chung" },
+      { "word": "房东", "pinyin": "fáng dōng", "meaning": "chủ nhà" },
+      { "word": "押金", "pinyin": "yā jīn", "meaning": "tiền cọc" },
+      { "word": "租金", "pinyin": "zū jīn", "meaning": "tiền thuê nhà" },
+      { "word": "合同", "pinyin": "hé tóng", "meaning": "hợp đồng" },
+      { "word": "月租", "pinyin": "yuè zū", "meaning": "tiền thuê hàng tháng" },
+      { "word": "房间", "pinyin": "fáng jiān", "meaning": "phòng" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về tiền thuê nhà", "content": "这间房子的租金是多少？(Zhè jiān fáng zi de zū jīn shì duō shǎo?) = Tiền thuê căn nhà này là bao nhiêu?" },
+      { "title": "Hợp đồng thuê nhà", "content": "我们需要签合同。(Wǒ men xū yào qiān hé tóng.) = Chúng ta cần ký hợp đồng." }
+    ],
+    "quizzes": [
+      {
+        "question": "“租房” nghĩa là gì?",
+        "options": ["Thuê nhà", "Mua nhà", "Bán nhà"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“房东” nghĩa là gì?",
+        "options": ["Chủ nhà", "Người thuê", "Chủ phòng"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tiền thuê căn nhà này là bao nhiêu?” nói thế nào?",
+        "options": ["这间房子的租金是多少？", "你有多少钱？", "租金是多少？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Nội thành và ngoại thành",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "城市", "pinyin": "chéng shì", "meaning": "thành phố" },
+      { "word": "郊区", "pinyin": "jiāo qū", "meaning": "ngoại thành" },
+      { "word": "中心", "pinyin": "zhōng xīn", "meaning": "trung tâm" },
+      { "word": "住宅区", "pinyin": "zhù zhái qū", "meaning": "khu dân cư" },
+      { "word": "交通", "pinyin": "jiāo tōng", "meaning": "giao thông" },
+      { "word": "便利", "pinyin": "biàn lì", "meaning": "tiện lợi" },
+      { "word": "环境", "pinyin": "huán jìng", "meaning": "môi trường" },
+      { "word": "污染", "pinyin": "wū rǎn", "meaning": "ô nhiễm" }
+    ],
+    "grammars": [
+      { "title": "Miêu tả khu vực", "content": "市中心很热闹。(Shì zhōng xīn hěn rè nào.) = Trung tâm thành phố rất náo nhiệt." },
+      { "title": "So sánh nội thành và ngoại thành", "content": "郊区比市中心安静。(Jiāo qū bǐ shì zhōng xīn ān jìng.) = Ngoại thành yên tĩnh hơn trung tâm thành phố." }
+    ],
+    "quizzes": [
+      {
+        "question": "“城市” nghĩa là gì?",
+        "options": ["Làng", "Thành phố", "Khu dân cư"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“郊区” nghĩa là gì?",
+        "options": ["Nội thành", "Ngoại thành", "Trung tâm"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Ngoại thành yên tĩnh hơn trung tâm thành phố” nói thế nào?",
+        "options": ["郊区比市中心安静", "市中心比郊区安静", "郊区很嘈杂"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: Một người diễn viên",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "演员", "pinyin": "yǎn yuán", "meaning": "diễn viên" },
+      { "word": "电影", "pinyin": "diàn yǐng", "meaning": "phim" },
+      { "word": "角色", "pinyin": "jué sè", "meaning": "vai diễn" },
+      { "word": "表演", "pinyin": "biǎo yǎn", "meaning": "diễn xuất" },
+      { "word": "奖项", "pinyin": "jiǎng xiàng", "meaning": "giải thưởng" },
+      { "word": "知名", "pinyin": "zhī míng", "meaning": "nổi tiếng" },
+      { "word": "明星", "pinyin": "míng xīng", "meaning": "ngôi sao" },
+      { "word": "拍摄", "pinyin": "pāi shè", "meaning": "quay phim" }
+    ],
+    "grammars": [
+      { "title": "Giới thiệu nghề nghiệp", "content": "他是一个很有名的演员。(Tā shì yī gè hěn yǒu míng de yǎn yuán.) = Anh ấy là một diễn viên rất nổi tiếng." },
+      { "title": "Miêu tả công việc", "content": "她演的角色很有意思。(Tā yǎn de jué sè hěn yǒu yì si.) = Vai diễn của cô ấy rất thú vị." }
+    ],
+    "quizzes": [
+      {
+        "question": "“演员” nghĩa là gì?",
+        "options": ["Diễn viên", "Đạo diễn", "Nhà sản xuất"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“电影” nghĩa là gì?",
+        "options": ["Phim", "Nhạc", "Truyện"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Anh ấy là một diễn viên rất nổi tiếng” nói thế nào?",
+        "options": ["他是一个很有名的演员", "他是一个很有名的明星", "他是一个导演"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Bóng bàn",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "乒乓球", "pinyin": "pīng pāng qiú", "meaning": "bóng bàn" },
+      { "word": "球拍", "pinyin": "qiú pāi", "meaning": "vợt" },
+      { "word": "比赛", "pinyin": "bǐ sài", "meaning": "trận đấu" },
+      { "word": "运动员", "pinyin": "yùn dòng yuán", "meaning": "vận động viên" },
+      { "word": "得分", "pinyin": "dé fēn", "meaning": "ghi điểm" },
+      { "word": "赛场", "pinyin": "sài chǎng", "meaning": "sân thi đấu" },
+      { "word": "教练", "pinyin": "jiào liàn", "meaning": "huấn luyện viên" },
+      { "word": "对手", "pinyin": "duì shǒu", "meaning": "đối thủ" }
+    ],
+    "grammars": [
+      { "title": "Miêu tả môn thể thao", "content": "乒乓球是一项有趣的运动。(Pīng pāng qiú shì yī xiàng yǒu qù de yùn dòng.) = Bóng bàn là một môn thể thao thú vị." },
+      { "title": "Tham gia thi đấu", "content": "他参加了比赛。(Tā cān jiā le bǐ sài.) = Anh ấy tham gia trận đấu." }
+    ],
+    "quizzes": [
+      {
+        "question": "“乒乓球” nghĩa là gì?",
+        "options": ["Bóng rổ", "Bóng bàn", "Cầu lông"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“比赛” nghĩa là gì?",
+        "options": ["Trận đấu", "Phòng tập", "Sân bóng"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Bóng bàn là một môn thể thao thú vị” nói thế nào?",
+        "options": ["乒乓球是一项有趣的运动", "乒乓球是一项难的运动", "乒乓球是一项容易的运动"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Chơi game",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "游戏", "pinyin": "yóu xì", "meaning": "game" },
+      { "word": "电脑", "pinyin": "diàn nǎo", "meaning": "máy tính" },
+      { "word": "手机", "pinyin": "shǒu jī", "meaning": "điện thoại" },
+      { "word": "玩家", "pinyin": "wán jiā", "meaning": "người chơi" },
+      { "word": "虚拟", "pinyin": "xū nǐ", "meaning": "ảo" },
+      { "word": "游戏机", "pinyin": "yóu xì jī", "meaning": "máy chơi game" },
+      { "word": "挑战", "pinyin": "tiǎo zhàn", "meaning": "thử thách" },
+      { "word": "胜利", "pinyin": "shèng lì", "meaning": "chiến thắng" }
+    ],
+    "grammars": [
+      { "title": "Chơi game trên máy tính", "content": "我喜欢在电脑上玩游戏。(Wǒ xǐ huān zài diàn nǎo shàng wán yóu xì.) = Tôi thích chơi game trên máy tính." },
+      { "title": "Hỏi về trò chơi", "content": "你喜欢什么游戏？(Nǐ xǐ huān shén me yóu xì?) = Bạn thích chơi game gì?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“游戏” nghĩa là gì?",
+        "options": ["Phim", "Trò chơi", "Điện thoại"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“玩家” nghĩa là gì?",
+        "options": ["Người chơi", "Người xem", "Người thiết kế"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi thích chơi game trên máy tính” nói thế nào?",
+        "options": ["我喜欢在电脑上玩游戏", "我喜欢玩电脑", "我喜欢看游戏"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Người yêu lý tưởng",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "理想", "pinyin": "lǐ xiǎng", "meaning": "lý tưởng" },
+      { "word": "伴侣", "pinyin": "bàn lǚ", "meaning": "bạn đời" },
+      { "word": "性格", "pinyin": "xìng gé", "meaning": "tính cách" },
+      { "word": "温柔", "pinyin": "wēn róu", "meaning": "dịu dàng" },
+      { "word": "幽默", "pinyin": "yōu mò", "meaning": "hài hước" },
+      { "word": "体贴", "pinyin": "tǐ tiē", "meaning": "chu đáo" },
+      { "word": "相爱", "pinyin": "xiāng ài", "meaning": "yêu nhau" },
+      { "word": "了解", "pinyin": "liǎo jiě", "meaning": "hiểu biết" }
+    ],
+    "grammars": [
+      { "title": "Mô tả người yêu lý tưởng", "content": "我的理想伴侣温柔且幽默。(Wǒ de lǐ xiǎng bàn lǚ wēn róu qiě yōu mò.) = Người yêu lý tưởng của tôi là người dịu dàng và hài hước." },
+      { "title": "Miêu tả tính cách", "content": "她非常体贴。(Tā fēi cháng tǐ tiē.) = Cô ấy rất chu đáo." }
+    ],
+    "quizzes": [
+      {
+        "question": "“理想” nghĩa là gì?",
+        "options": ["Mục tiêu", "Lý tưởng", "Bản thân"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“伴侣” nghĩa là gì?",
+        "options": ["Bạn đời", "Bạn bè", "Người yêu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Người yêu lý tưởng của tôi là người dịu dàng và hài hước” nói thế nào?",
+        "options": ["我的理想伴侣温柔且幽默", "我的伴侣很温柔", "我的理想伴侣很幽默"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

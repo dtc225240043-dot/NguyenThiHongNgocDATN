@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "hanzi": "技术",
+    "pinyin": "jì shù",
+    "meaning": "kỹ thuật",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 2,
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "meaning": "máy tính",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 3,
+    "hanzi": "互联网",
+    "pinyin": "hù lián wǎng",
+    "meaning": "Internet",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 4,
+    "hanzi": "人工智能",
+    "pinyin": "rén gōng zhì néng",
+    "meaning": "trí tuệ nhân tạo",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 5,
+    "hanzi": "软件",
+    "pinyin": "ruǎn jiàn",
+    "meaning": "phần mềm",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 6,
+    "hanzi": "硬件",
+    "pinyin": "yìng jiàn",
+    "meaning": "phần cứng",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 7,
+    "hanzi": "编程",
+    "pinyin": "biān chéng",
+    "meaning": "lập trình",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 8,
+    "hanzi": "网络安全",
+    "pinyin": "wǎng luò ān quán",
+    "meaning": "an ninh mạng",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 9,
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "điện thoại di động",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 10,
+    "hanzi": "电池",
+    "pinyin": "diàn chí",
+    "meaning": "pin",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 11,
+    "hanzi": "云计算",
+    "pinyin": "yún jì suàn",
+    "meaning": "điện toán đám mây",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 12,
+    "hanzi": "虚拟现实",
+    "pinyin": "xū nǐ xiàn shí",
+    "meaning": "thực tế ảo",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 13,
+    "hanzi": "数据",
+    "pinyin": "shù jù",
+    "meaning": "dữ liệu",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 14,
+    "hanzi": "云存储",
+    "pinyin": "yún cún chǔ",
+    "meaning": "lưu trữ đám mây",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 15,
+    "hanzi": "智能手机",
+    "pinyin": "zhì néng shǒu jī",
+    "meaning": "smartphone",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 16,
+    "hanzi": "数据分析",
+    "pinyin": "shù jù fēn xī",
+    "meaning": "phân tích dữ liệu",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 17,
+    "hanzi": "电动汽车",
+    "pinyin": "diàn dòng qì chē",
+    "meaning": "xe điện",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 18,
+    "hanzi": "机器人",
+    "pinyin": "jī qì rén",
+    "meaning": "robot",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 19,
+    "hanzi": "自动驾驶",
+    "pinyin": "zì dòng jià shǐ",
+    "meaning": "lái xe tự động",
+    "category": "TECHNOLOGY"
+  },
+  {
+    "id": 20,
+    "hanzi": "3D打印",
+    "pinyin": "sān Dī dǎ yìn",
+    "meaning": "in 3D",
+    "category": "TECHNOLOGY"
+  }
+]

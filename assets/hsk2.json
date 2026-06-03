@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Bạn mới",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "朋友", "pinyin": "péng yǒu", "meaning": "bạn bè" },
+      { "word": "认识", "pinyin": "rèn shi", "meaning": "biết, quen" },
+      { "word": "新", "pinyin": "xīn", "meaning": "mới" },
+      { "word": "同学", "pinyin": "tóng xué", "meaning": "bạn học" },
+      { "word": "我", "pinyin": "wǒ", "meaning": "tôi" },
+      { "word": "你", "pinyin": "nǐ", "meaning": "bạn" },
+      { "word": "很高兴", "pinyin": "hěn gāo xìng", "meaning": "rất vui" },
+      { "word": "认识你", "pinyin": "rèn shi nǐ", "meaning": "rất vui được gặp bạn" }
+    ],
+    "grammars": [
+      { "title": "Chào hỏi bạn mới", "content": "你好，我是李明。很高兴认识你。(Nǐ hǎo, wǒ shì Lǐ Míng. Hěn gāo xìng rèn shi nǐ.) = Chào bạn, tôi là Lý Minh. Rất vui được gặp bạn." },
+      { "title": "Đề nghị làm quen", "content": "你是学生吗？(Nǐ shì xué sheng ma?) = Bạn là học sinh phải không?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“朋友” nghĩa là gì?",
+        "options": ["Người thân", "Bạn bè", "Học sinh"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“认识” nghĩa là gì?",
+        "options": ["Học", "Quen biết", "Chơi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Tôi là Lý Minh” nói thế nào?",
+        "options": ["我是李明", "你是李明", "他是李明"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Ăn trưa",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "午餐", "pinyin": "wǔ cān", "meaning": "bữa trưa" },
+      { "word": "吃", "pinyin": "chī", "meaning": "ăn" },
+      { "word": "饭", "pinyin": "fàn", "meaning": "cơm" },
+      { "word": "面条", "pinyin": "miàn tiáo", "meaning": "mì" },
+      { "word": "菜", "pinyin": "cài", "meaning": "món ăn" },
+      { "word": "喝", "pinyin": "hē", "meaning": "uống" },
+      { "word": "水", "pinyin": "shuǐ", "meaning": "nước" },
+      { "word": "可乐", "pinyin": "kě lè", "meaning": "nước ngọt" }
+    ],
+    "grammars": [
+      { "title": "Đặt câu hỏi về bữa ăn", "content": "你吃什么？(Nǐ chī shén me?) = Bạn ăn gì?" },
+      { "title": "Mời ăn", "content": "我们一起吃午餐吧。(Wǒ men yī qǐ chī wǔ cān ba.) = Chúng ta cùng ăn trưa nhé." }
+    ],
+    "quizzes": [
+      {
+        "question": "“吃” nghĩa là gì?",
+        "options": ["Ăn", "Uống", "Ngủ"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“面条” nghĩa là gì?",
+        "options": ["Cơm", "Mì", "Súp"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“我们一起吃午餐吧” nghĩa là gì?",
+        "options": ["Chúng ta đi ăn trưa", "Chúng ta ăn trưa cùng nhau nhé", "Chúng ta uống nước"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: So sánh",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "大", "pinyin": "dà", "meaning": "to" },
+      { "word": "小", "pinyin": "xiǎo", "meaning": "nhỏ" },
+      { "word": "高", "pinyin": "gāo", "meaning": "cao" },
+      { "word": "矮", "pinyin": "ǎi", "meaning": "thấp" },
+      { "word": "快", "pinyin": "kuài", "meaning": "nhanh" },
+      { "word": "慢", "pinyin": "màn", "meaning": "chậm" },
+      { "word": "多", "pinyin": "duō", "meaning": "nhiều" },
+      { "word": "少", "pinyin": "shǎo", "meaning": "ít" }
+    ],
+    "grammars": [
+      { "title": "So sánh bằng", "content": "他和我一样高。(Tā hé wǒ yī yàng gāo.) = Anh ấy cao như tôi." },
+      { "title": "So sánh hơn", "content": "他比我高。(Tā bǐ wǒ gāo.) = Anh ấy cao hơn tôi." }
+    ],
+    "quizzes": [
+      {
+        "question": "“大” nghĩa là gì?",
+        "options": ["Nhỏ", "To", "Cao"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“他比我高” nghĩa là gì?",
+        "options": ["Anh ấy cao như tôi", "Anh ấy cao hơn tôi", "Tôi cao hơn anh ấy"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Chúng tôi bằng nhau” nói thế nào?",
+        "options": ["我们一样", "我们不同", "我们高"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Bắt kịp chuyến bay",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "飞机", "pinyin": "fēi jī", "meaning": "máy bay" },
+      { "word": "机场", "pinyin": "jī chǎng", "meaning": "sân bay" },
+      { "word": "航班", "pinyin": "háng bān", "meaning": "chuyến bay" },
+      { "word": "登机", "pinyin": "dēng jī", "meaning": "lên máy bay" },
+      { "word": "安检", "pinyin": "ān jiǎn", "meaning": "kiểm tra an ninh" },
+      { "word": "票", "pinyin": "piào", "meaning": "vé" },
+      { "word": "到达", "pinyin": "dào dá", "meaning": "đến" },
+      { "word": "起飞", "pinyin": "qǐ fēi", "meaning": "cất cánh" }
+    ],
+    "grammars": [
+      { "title": "Bạn có vé không?", "content": "你有票吗？(Nǐ yǒu piào ma?) = Bạn có vé không?" },
+      { "title": "Chuyến bay cất cánh lúc nào?", "content": "航班什么时候起飞？(Háng bān shén me shí hòu qǐ fēi?) = Chuyến bay cất cánh lúc nào?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“飞机” nghĩa là gì?",
+        "options": ["Ô tô", "Máy bay", "Tàu"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“你有票吗？” nghĩa là gì?",
+        "options": ["Bạn có vé không?", "Bạn đi đâu?", "Chuyến bay cất cánh lúc nào?"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Chuyến bay của tôi cất cánh lúc mấy giờ?",
+        "options": ["航班几点起飞？", "飞机几点到达？", "安检什么时候开始？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Phương tiện đi lại",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "汽车", "pinyin": "qì chē", "meaning": "ô tô" },
+      { "word": "火车", "pinyin": "huǒ chē", "meaning": "tàu hỏa" },
+      { "word": "自行车", "pinyin": "zì xíng chē", "meaning": "xe đạp" },
+      { "word": "地铁", "pinyin": "dì tiě", "meaning": "tàu điện ngầm" },
+      { "word": "飞机", "pinyin": "fēi jī", "meaning": "máy bay" },
+      { "word": "船", "pinyin": "chuán", "meaning": "thuyền" },
+      { "word": "走", "pinyin": "zǒu", "meaning": "đi bộ" },
+      { "word": "开", "pinyin": "kāi", "meaning": "lái (xe)" }
+    ],
+    "grammars": [
+      { "title": "Di chuyển bằng phương tiện", "content": "我坐火车。(Wǒ zuò huǒ chē.) = Tôi đi tàu hỏa." },
+      { "title": "Hỏi về phương tiện", "content": "你怎么去工作？(Nǐ zěn me qù gōng zuò?) = Bạn đi làm bằng cách nào?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“汽车” nghĩa là gì?",
+        "options": ["Máy bay", "Ô tô", "Thuyền"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“你怎么去工作？” nghĩa là gì?",
+        "options": ["Bạn đi làm bằng gì?", "Bạn làm gì?", "Bạn ở đâu?"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“坐” nghĩa là gì?",
+        "options": ["Đi bộ", "Đi xe", "Đi máy bay"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Hỏi đường",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "哪里", "pinyin": "nǎ lǐ", "meaning": "ở đâu" },
+      { "word": "左", "pinyin": "zuǒ", "meaning": "trái" },
+      { "word": "右", "pinyin": "yòu", "meaning": "phải" },
+      { "word": "直走", "pinyin": "zhí zǒu", "meaning": "đi thẳng" },
+      { "word": "前面", "pinyin": "qián miàn", "meaning": "phía trước" },
+      { "word": "后面", "pinyin": "hòu miàn", "meaning": "phía sau" },
+      { "word": "路口", "pinyin": "lù kǒu", "meaning": "ngã tư" },
+      { "word": "街", "pinyin": "jiē", "meaning": "phố" }
+    ],
+    "grammars": [
+      { "title": "Hỏi đường", "content": "请问，银行在哪里？(Qǐng wèn, yín háng zài nǎ lǐ?) = Xin hỏi, ngân hàng ở đâu?" },
+      { "title": "Chỉ đường", "content": "你可以直走，左转，右转。(Nǐ kě yǐ zhí zǒu, zuǒ zhuǎn, yòu zhuǎn.) = Bạn có thể đi thẳng, rẽ trái, rẽ phải." }
+    ],
+    "quizzes": [
+      {
+        "question": "“左” nghĩa là gì?",
+        "options": ["Trái", "Phải", "Đi thẳng"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“哪里” nghĩa là gì?",
+        "options": ["Ở đâu", "Đúng không", "Bên cạnh"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“我可以直走吗？” nghĩa là gì?",
+        "options": ["Tôi có thể đi thẳng không?", "Tôi có thể rẽ phải không?", "Tôi có thể rẽ trái không?"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

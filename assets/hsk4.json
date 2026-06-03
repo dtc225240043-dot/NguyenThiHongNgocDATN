@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Người thân",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "父母", "pinyin": "fù mǔ", "meaning": "bố mẹ" },
+      { "word": "兄弟", "pinyin": "xiōng dì", "meaning": "anh em trai" },
+      { "word": "姐妹", "pinyin": "jiě mèi", "meaning": "chị em gái" },
+      { "word": "丈夫", "pinyin": "zhàng fu", "meaning": "chồng" },
+      { "word": "妻子", "pinyin": "qī zi", "meaning": "vợ" },
+      { "word": "孩子", "pinyin": "hái zi", "meaning": "con cái" },
+      { "word": "祖父", "pinyin": "zǔ fù", "meaning": "ông nội" },
+      { "word": "祖母", "pinyin": "zǔ mǔ", "meaning": "bà nội" }
+    ],
+    "grammars": [
+      { "title": "Giới thiệu về gia đình", "content": "我有一个哥哥和一个妹妹。(Wǒ yǒu yī gè gē ge hé yī gè mèi mei.) = Tôi có một anh trai và một em gái." },
+      { "title": "Hỏi về gia đình", "content": "你的父母做什么工作？(Nǐ de fù mǔ zuò shén me gōng zuò?) = Bố mẹ bạn làm công việc gì?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“父母” nghĩa là gì?",
+        "options": ["Bố mẹ", "Anh em trai", "Chị em gái"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“妻子” nghĩa là gì?",
+        "options": ["Vợ", "Chồng", "Con cái"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi có một anh trai và một em gái” nói thế nào?",
+        "options": ["我有一个哥哥和一个妹妹", "我有父母和孩子", "我有祖父和祖母"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Sông lớn ở Trung Quốc",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "长江", "pinyin": "Cháng Jiāng", "meaning": "Sông Dương Tử" },
+      { "word": "黄河", "pinyin": "Huáng Hé", "meaning": "Sông Hoàng Hà" },
+      { "word": "珠江", "pinyin": "Zhū Jiāng", "meaning": "Sông Châu Giang" },
+      { "word": "水源", "pinyin": "shuǐ yuán", "meaning": "nguồn nước" },
+      { "word": "流域", "pinyin": "liú yù", "meaning": "lưu vực" },
+      { "word": "河流", "pinyin": "hé liú", "meaning": "sông" },
+      { "word": "水利", "pinyin": "shuǐ lì", "meaning": "thủy lợi" },
+      { "word": "灌溉", "pinyin": "guàn gài", "meaning": "tưới tiêu" }
+    ],
+    "grammars": [
+      { "title": "Mô tả vị trí địa lý", "content": "长江位于中国。(Cháng Jiāng wèi yú Zhōng Guó.) = Sông Dương Tử nằm ở Trung Quốc." },
+      { "title": "Sử dụng “从...到...” để chỉ khoảng cách", "content": "从长江到黄河很远。(Cóng Cháng Jiāng dào Huáng Hé hěn yuǎn.) = Từ sông Dương Tử đến sông Hoàng Hà rất xa." }
+    ],
+    "quizzes": [
+      {
+        "question": "“长江” nghĩa là gì?",
+        "options": ["Sông Hoàng Hà", "Sông Dương Tử", "Sông Châu Giang"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“黄河” nghĩa là gì?",
+        "options": ["Sông Dương Tử", "Sông Hoàng Hà", "Sông Châu Giang"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Từ sông Dương Tử đến sông Hoàng Hà rất xa” nói thế nào?",
+        "options": ["从长江到黄河很远", "从长江到珠江很远", "长江很长"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: Phỏng vấn trước khi thi đâu",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "面试", "pinyin": "miàn shì", "meaning": "phỏng vấn" },
+      { "word": "问题", "pinyin": "wèn tí", "meaning": "câu hỏi" },
+      { "word": "答案", "pinyin": "dá àn", "meaning": "đáp án" },
+      { "word": "准备", "pinyin": "zhǔn bèi", "meaning": "chuẩn bị" },
+      { "word": "公司", "pinyin": "gōng sī", "meaning": "công ty" },
+      { "word": "职位", "pinyin": "zhí wèi", "meaning": "vị trí" },
+      { "word": "考官", "pinyin": "kǎo guān", "meaning": "giám khảo" },
+      { "word": "面试官", "pinyin": "miàn shì guān", "meaning": "người phỏng vấn" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về quá trình phỏng vấn", "content": "你准备好面试了吗？(Nǐ zhǔn bèi hǎo miàn shì le ma?) = Bạn đã chuẩn bị cho cuộc phỏng vấn chưa?" },
+      { "title": "Đưa ra câu hỏi về vị trí công việc", "content": "你想应聘什么职位？(Nǐ xiǎng yìng pìn shén me zhí wèi?) = Bạn muốn ứng tuyển vào vị trí nào?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“面试” nghĩa là gì?",
+        "options": ["Phỏng vấn", "Thi cử", "Bài tập"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“公司” nghĩa là gì?",
+        "options": ["Công ty", "Vị trí", "Câu hỏi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Bạn đã chuẩn bị cho cuộc phỏng vấn chưa?” nói thế nào?",
+        "options": ["你准备好面试了吗？", "你去面试了吗？", "你有答案了吗？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Tìm nhà",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "房子", "pinyin": "fáng zi", "meaning": "nhà" },
+      { "word": "租", "pinyin": "zū", "meaning": "thuê" },
+      { "word": "买", "pinyin": "mǎi", "meaning": "mua" },
+      { "word": "价格", "pinyin": "jià gé", "meaning": "giá cả" },
+      { "word": "位置", "pinyin": "wèi zhì", "meaning": "vị trí" },
+      { "word": "附近", "pinyin": "fù jìn", "meaning": "gần" },
+      { "word": "安静", "pinyin": "ān jìng", "meaning": "yên tĩnh" },
+      { "word": "交通", "pinyin": "jiāo tōng", "meaning": "giao thông" }
+    ],
+    "grammars": [
+      { "title": "Hỏi giá thuê nhà", "content": "这套房子多少钱？(Zhè tào fáng zi duō shǎo qián?) = Căn nhà này giá bao nhiêu?" },
+      { "title": "Miêu tả vị trí nhà", "content": "房子在学校附近。(Fáng zi zài xué xiào fù jìn.) = Căn nhà ở gần trường học." }
+    ],
+    "quizzes": [
+      {
+        "question": "“租” nghĩa là gì?",
+        "options": ["Mua", "Thuê", "Bán"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“价格” nghĩa là gì?",
+        "options": ["Giá cả", "Vị trí", "Số phòng"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Căn nhà này ở gần trường học” nói thế nào?",
+        "options": ["房子在学校附近", "房子在学校里", "房子在商店附近"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Tình hình làm việc",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "工作", "pinyin": "gōng zuò", "meaning": "công việc" },
+      { "word": "忙", "pinyin": "máng", "meaning": "bận" },
+      { "word": "休息", "pinyin": "xiū xi", "meaning": "nghỉ ngơi" },
+      { "word": "加班", "pinyin": "jiā bān", "meaning": "làm thêm giờ" },
+      { "word": "老板", "pinyin": "lǎo bǎn", "meaning": "sếp" },
+      { "word": "同事", "pinyin": "tóng shì", "meaning": "đồng nghiệp" },
+      { "word": "完成", "pinyin": "wán chéng", "meaning": "hoàn thành" },
+      { "word": "项目", "pinyin": "xiàng mù", "meaning": "dự án" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về công việc", "content": "你做什么工作？(Nǐ zuò shén me gōng zuò?) = Bạn làm công việc gì?" },
+      { "title": "Nói về tình hình công việc", "content": "我今天忙，不能休息。(Wǒ jīn tiān máng, bù néng xiū xi.) = Hôm nay tôi bận, không thể nghỉ ngơi." }
+    ],
+    "quizzes": [
+      {
+        "question": "“工作” nghĩa là gì?",
+        "options": ["Công việc", "Đồng nghiệp", "Sếp"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“加班” nghĩa là gì?",
+        "options": ["Làm thêm giờ", "Nghỉ ngơi", "Đi làm"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Hôm nay tôi bận, không thể nghỉ ngơi” nói thế nào?",
+        "options": ["我今天忙，不能休息", "我今天很忙，能休息", "我今天很忙，不能休息"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Một quyển sách",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "书", "pinyin": "shū", "meaning": "sách" },
+      { "word": "小说", "pinyin": "xiǎo shuō", "meaning": "tiểu thuyết" },
+      { "word": "故事", "pinyin": "gù shì", "meaning": "câu chuyện" },
+      { "word": "阅读", "pinyin": "yuè dú", "meaning": "đọc sách" },
+      { "word": "作者", "pinyin": "zuò zhě", "meaning": "tác giả" },
+      { "word": "内容", "pinyin": "nèi róng", "meaning": "nội dung" },
+      { "word": "章节", "pinyin": "zhāng jié", "meaning": "chương" },
+      { "word": "推荐", "pinyin": "tuī jiàn", "meaning": "gợi ý" }
+    ],
+    "grammars": [
+      { "title": "Nói về việc đọc sách", "content": "我正在阅读一本书。(Wǒ zhèng zài yuè dú yī běn shū.) = Tôi đang đọc một quyển sách." },
+      { "title": "Hỏi về nội dung sách", "content": "这本书的内容是什么？(Zhè běn shū de nèi róng shì shén me?) = Nội dung của quyển sách này là gì?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“书” nghĩa là gì?",
+        "options": ["Sách", "Tiểu thuyết", "Chương"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“小说” nghĩa là gì?",
+        "options": ["Tiểu thuyết", "Truyện tranh", "Thơ"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi đang đọc một quyển sách” nói thế nào?",
+        "options": ["我正在阅读一本书", "我正在写书", "我正在看电影"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

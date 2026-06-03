@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "hanzi": "旅行",
+    "pinyin": "lǚxíng",
+    "meaning": "du lịch",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 2,
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "máy bay",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 3,
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "meaning": "sân bay",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 4,
+    "hanzi": "导游",
+    "pinyin": "dǎoyóu",
+    "meaning": "hướng dẫn viên",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 5,
+    "hanzi": "签证",
+    "pinyin": "qiānzhèng",
+    "meaning": "thị thực",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 6,
+    "hanzi": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "du lịch",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 7,
+    "hanzi": "住宿",
+    "pinyin": "zhùsù",
+    "meaning": "chỗ ở",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 8,
+    "hanzi": "行李",
+    "pinyin": "xínglǐ",
+    "meaning": "hành lý",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 9,
+    "hanzi": "旅游景点",
+    "pinyin": "lǚyóu jǐngdiǎn",
+    "meaning": "điểm du lịch",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 10,
+    "hanzi": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "hộ chiếu",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 11,
+    "hanzi": "餐馆",
+    "pinyin": "cānguǎn",
+    "meaning": "nhà hàng",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 12,
+    "hanzi": "地图",
+    "pinyin": "dìtú",
+    "meaning": "bản đồ",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 13,
+    "hanzi": "路线",
+    "pinyin": "lùxiàn",
+    "meaning": "lộ trình",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 14,
+    "hanzi": "游客",
+    "pinyin": "yóukè",
+    "meaning": "du khách",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 15,
+    "hanzi": "景点",
+    "pinyin": "jǐngdiǎn",
+    "meaning": "thắng cảnh",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 16,
+    "hanzi": "游船",
+    "pinyin": "yóuchuán",
+    "meaning": "tàu du lịch",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 17,
+    "hanzi": "预算",
+    "pinyin": "yùsuàn",
+    "meaning": "ngân sách",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 18,
+    "hanzi": "文化",
+    "pinyin": "wénhuà",
+    "meaning": "văn hóa",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 19,
+    "hanzi": "旅行社",
+    "pinyin": "lǚxíngshè",
+    "meaning": "đại lý du lịch",
+    "category": "TRAVEL"
+  },
+  {
+    "id": 20,
+    "hanzi": "观光",
+    "pinyin": "guānguāng",
+    "meaning": "tham quan",
+    "category": "TRAVEL"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Chiều cao và cân nặng",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "高", "pinyin": "gāo", "meaning": "cao" },
+      { "word": "矮", "pinyin": "ǎi", "meaning": "thấp" },
+      { "word": "重", "pinyin": "zhòng", "meaning": "nặng" },
+      { "word": "轻", "pinyin": "qīng", "meaning": "nhẹ" },
+      { "word": "体重", "pinyin": "tǐ zhòng", "meaning": "cân nặng" },
+      { "word": "身高", "pinyin": "shēn gāo", "meaning": "chiều cao" },
+      { "word": "胖", "pinyin": "pàng", "meaning": "béo" },
+      { "word": "瘦", "pinyin": "shòu", "meaning": "gầy" }
+    ],
+    "grammars": [
+      { "title": "Câu so sánh", "content": "我比你高。(Wǒ bǐ nǐ gāo.) = Tôi cao hơn bạn." },
+      { "title": "Hỏi chiều cao và cân nặng", "content": "你多高？(Nǐ duō gāo?) = Bạn cao bao nhiêu?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“高” nghĩa là gì?",
+        "options": ["Thấp", "Cao", "Nặng"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“瘦” nghĩa là gì?",
+        "options": ["Béo", "Gầy", "Nhẹ"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Tôi cao hơn bạn” nói thế nào?",
+        "options": ["我比你高", "你比我高", "我们都高"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Đón khách ở sân bay",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "机场", "pinyin": "jī chǎng", "meaning": "sân bay" },
+      { "word": "接", "pinyin": "jiē", "meaning": "đón" },
+      { "word": "客人", "pinyin": "kè rén", "meaning": "khách" },
+      { "word": "航班", "pinyin": "háng bān", "meaning": "chuyến bay" },
+      { "word": "到达", "pinyin": "dào dá", "meaning": "đến" },
+      { "word": "晚", "pinyin": "wǎn", "meaning": "muộn" },
+      { "word": "早", "pinyin": "zǎo", "meaning": "sớm" },
+      { "word": "找", "pinyin": "zhǎo", "meaning": "tìm" }
+    ],
+    "grammars": [
+      { "title": "Hỏi giờ đến của chuyến bay", "content": "航班几点到达？(Háng bān jǐ diǎn dào dá?) = Chuyến bay đến lúc mấy giờ?" },
+      { "title": "Câu hỏi về sự kiện tương lai", "content": "你什么时候到达？(Nǐ shén me shí hòu dào dá?) = Bạn sẽ đến lúc nào?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“机场” nghĩa là gì?",
+        "options": ["Sân bay", "Khách sạn", "Nhà ga"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“接” nghĩa là gì?",
+        "options": ["Đón", "Tiễn", "Gặp"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Chuyến bay đến lúc mấy giờ?” nói thế nào?",
+        "options": ["航班几点到达？", "你什么时候到达？", "你几点到达？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: Mua quần",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "裤子", "pinyin": "kù zi", "meaning": "quần" },
+      { "word": "尺寸", "pinyin": "chǐ cùn", "meaning": "kích cỡ" },
+      { "word": "大", "pinyin": "dà", "meaning": "to" },
+      { "word": "小", "pinyin": "xiǎo", "meaning": "nhỏ" },
+      { "word": "合适", "pinyin": "hé shì", "meaning": "vừa vặn" },
+      { "word": "试穿", "pinyin": "shì chuān", "meaning": "thử đồ" },
+      { "word": "颜色", "pinyin": "yán sè", "meaning": "màu sắc" },
+      { "word": "买", "pinyin": "mǎi", "meaning": "mua" }
+    ],
+    "grammars": [
+      { "title": "Hỏi kích cỡ", "content": "你穿多大号的裤子？(Nǐ chuān duō dà hào de kù zi?) = Bạn mặc quần size bao nhiêu?" },
+      { "title": "Hỏi về sự phù hợp", "content": "这条裤子合适吗？(Zhè tiáo kù zi hé shì ma?) = Cái quần này có vừa không?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“裤子” nghĩa là gì?",
+        "options": ["Áo", "Quần", "Giày"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“合适” nghĩa là gì?",
+        "options": ["Quá to", "Vừa vặn", "Quá nhỏ"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Bạn mặc quần size bao nhiêu?” nói thế nào?",
+        "options": ["你穿多大号的裤子？", "你有多大的裤子？", "这条裤子合适吗？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Số điểm trong kỳ thi",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "分数", "pinyin": "fēn shù", "meaning": "số điểm" },
+      { "word": "考试", "pinyin": "kǎo shì", "meaning": "thi" },
+      { "word": "及格", "pinyin": "jí gé", "meaning": "đậu" },
+      { "word": "不及格", "pinyin": "bù jí gé", "meaning": "rớt" },
+      { "word": "成绩", "pinyin": "chéng jī", "meaning": "kết quả" },
+      { "word": "满分", "pinyin": "mǎn fēn", "meaning": "điểm tối đa" },
+      { "word": "多少", "pinyin": "duō shǎo", "meaning": "bao nhiêu" },
+      { "word": "分", "pinyin": "fēn", "meaning": "điểm" }
+    ],
+    "grammars": [
+      { "title": "Hỏi số điểm", "content": "你的考试分数是多少？(Nǐ de kǎo shì fēn shù shì duō shǎo?) = Số điểm kỳ thi của bạn là bao nhiêu?" },
+      { "title": "Nói về số điểm", "content": "我得了八十分。(Wǒ dé le bā shí fēn.) = Tôi được 80 điểm." }
+    ],
+    "quizzes": [
+      {
+        "question": "“分数” nghĩa là gì?",
+        "options": ["Điểm", "Số", "Môn thi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“及格” nghĩa là gì?",
+        "options": ["Đậu", "Rớt", "Điểm tối đa"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Số điểm kỳ thi của bạn là bao nhiêu?” nói thế nào?",
+        "options": ["你的考试分数是多少？", "你考试怎么样？", "你的成绩是多少？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Bố trí căn phòng",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "房间", "pinyin": "fáng jiān", "meaning": "phòng" },
+      { "word": "床", "pinyin": "chuáng", "meaning": "giường" },
+      { "word": "沙发", "pinyin": "shā fā", "meaning": "sô fa" },
+      { "word": "桌子", "pinyin": "zhuō zi", "meaning": "bàn" },
+      { "word": "椅子", "pinyin": "yǐ zi", "meaning": "ghế" },
+      { "word": "电视", "pinyin": "diàn shì", "meaning": "tivi" },
+      { "word": "窗户", "pinyin": "chuāng hù", "meaning": "cửa sổ" },
+      { "word": "地毯", "pinyin": "dì tǎn", "meaning": "thảm" }
+    ],
+    "grammars": [
+      { "title": "Miêu tả vị trí", "content": "床在房间的角落。(Chuáng zài fáng jiān de jiǎo luò.) = Giường ở góc phòng." },
+      { "title": "Thảo luận về đồ đạc trong phòng", "content": "电视在桌子旁边。(Diàn shì zài zhuō zi páng biān.) = Tivi ở bên cạnh bàn." }
+    ],
+    "quizzes": [
+      {
+        "question": "“床” nghĩa là gì?",
+        "options": ["Giường", "Bàn", "Sofa"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“电视” nghĩa là gì?",
+        "options": ["Tivi", "Giường", "Bàn"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Giường ở góc phòng” nói thế nào?",
+        "options": ["床在房间的角落", "床在房间的中间", "电视在房间的角落"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Chuẩn bị xuất phát",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "准备", "pinyin": "zhǔn bèi", "meaning": "chuẩn bị" },
+      { "word": "出发", "pinyin": "chū fā", "meaning": "xuất phát" },
+      { "word": "行李", "pinyin": "xíng lǐ", "meaning": "hành lý" },
+      { "word": "票", "pinyin": "piào", "meaning": "vé" },
+      { "word": "检查", "pinyin": "jiǎn chá", "meaning": "kiểm tra" },
+      { "word": "机场", "pinyin": "jī chǎng", "meaning": "sân bay" },
+      { "word": "时间", "pinyin": "shí jiān", "meaning": "thời gian" },
+      { "word": "早", "pinyin": "zǎo", "meaning": "sớm" }
+    ],
+    "grammars": [
+      { "title": "Chuẩn bị cho chuyến đi", "content": "你准备好了吗？(Nǐ zhǔn bèi hǎo le ma?) = Bạn đã chuẩn bị xong chưa?" },
+      { "title": "Kiểm tra hành lý", "content": "你检查行李了吗？(Nǐ jiǎn chá xíng lǐ le ma?) = Bạn đã kiểm tra hành lý chưa?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“准备” nghĩa là gì?",
+        "options": ["Chuẩn bị", "Đi chơi", "Ngủ"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“出发” nghĩa là gì?",
+        "options": ["Xuất phát", "Kiểm tra", "Làm việc"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Bạn đã chuẩn bị xong chưa?” nói thế nào?",
+        "options": ["你准备好了吗？", "你去了吗？", "你准备去了吗？"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

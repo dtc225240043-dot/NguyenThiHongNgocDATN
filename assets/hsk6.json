@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Sửa chữa",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "修理", "pinyin": "xiū lǐ", "meaning": "sửa chữa" },
+      { "word": "坏", "pinyin": "huài", "meaning": "hỏng" },
+      { "word": "工具", "pinyin": "gōng jù", "meaning": "dụng cụ" },
+      { "word": "修理工", "pinyin": "xiū lǐ gōng", "meaning": "thợ sửa chữa" },
+      { "word": "电器", "pinyin": "diàn qì", "meaning": "thiết bị điện" },
+      { "word": "维修", "pinyin": "wéi xiū", "meaning": "bảo trì" },
+      { "word": "损坏", "pinyin": "sǔn huài", "meaning": "hư hỏng" },
+      { "word": "更换", "pinyin": "gēng huàn", "meaning": "thay thế" }
+    ],
+    "grammars": [
+      { "title": "Miêu tả quá trình sửa chữa", "content": "我修理了坏的电视。(Wǒ xiū lǐ le huài de diàn shì.) = Tôi đã sửa chữa chiếc tivi hỏng." },
+      { "title": "Hỏi về tình trạng hư hỏng", "content": "这个电器坏了怎么办？(Zhè ge diàn qì huài le zěn me bàn?) = Thiết bị điện này hỏng thì phải làm sao?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“修理” nghĩa là gì?",
+        "options": ["Sửa chữa", "Bảo trì", "Thay thế"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“坏” nghĩa là gì?",
+        "options": ["Hỏng", "Mới", "Lạ"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Thiết bị điện này hỏng thì phải làm sao?” nói thế nào?",
+        "options": ["这个电器坏了怎么办？", "这台电器能修吗？", "这台电器不工作。"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Cuộc sống đơn giản",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "简单", "pinyin": "jiǎn dān", "meaning": "đơn giản" },
+      { "word": "节省", "pinyin": "jié shěng", "meaning": "tiết kiệm" },
+      { "word": "生活", "pinyin": "shēng huó", "meaning": "cuộc sống" },
+      { "word": "放松", "pinyin": "fàng sōng", "meaning": "thư giãn" },
+      { "word": "舒适", "pinyin": "shū shì", "meaning": "thoải mái" },
+      { "word": "省钱", "pinyin": "shěng qián", "meaning": "tiết kiệm tiền" },
+      { "word": "规律", "pinyin": "guī lǜ", "meaning": "quy luật" },
+      { "word": "清新", "pinyin": "qīng xīn", "meaning": "tươi mới" }
+    ],
+    "grammars": [
+      { "title": "Mô tả cuộc sống đơn giản", "content": "我喜欢简单的生活。(Wǒ xǐ huān jiǎn dān de shēng huó.) = Tôi thích cuộc sống đơn giản." },
+      { "title": "Lời khuyên về cuộc sống", "content": "节省时间是生活的一部分。(Jié shěng shí jiān shì shēng huó de yī bù fèn.) = Tiết kiệm thời gian là một phần của cuộc sống." }
+    ],
+    "quizzes": [
+      {
+        "question": "“简单” nghĩa là gì?",
+        "options": ["Đơn giản", "Khó khăn", "Mệt mỏi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“放松” nghĩa là gì?",
+        "options": ["Thư giãn", "Căng thẳng", "Bận rộn"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi thích cuộc sống đơn giản” nói thế nào?",
+        "options": ["我喜欢简单的生活", "我喜欢复杂的生活", "我喜欢忙碌的生活"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: Chuẩn bị cho hội nghị",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "会议", "pinyin": "huì yì", "meaning": "hội nghị" },
+      { "word": "准备", "pinyin": "zhǔn bèi", "meaning": "chuẩn bị" },
+      { "word": "议题", "pinyin": "yì tí", "meaning": "chủ đề" },
+      { "word": "报告", "pinyin": "bào gào", "meaning": "báo cáo" },
+      { "word": "讨论", "pinyin": "tǎo lùn", "meaning": "thảo luận" },
+      { "word": "安排", "pinyin": "ān pái", "meaning": "sắp xếp" },
+      { "word": "参与", "pinyin": "cān yù", "meaning": "tham gia" },
+      { "word": "主持", "pinyin": "zhǔ chí", "meaning": "chủ trì" }
+    ],
+    "grammars": [
+      { "title": "Chuẩn bị cho hội nghị", "content": "我正在准备会议的议题。(Wǒ zhèng zài zhǔn bèi huì yì de yì tí.) = Tôi đang chuẩn bị chủ đề của hội nghị." },
+      { "title": "Mời tham gia", "content": "请参加会议。(Qǐng cān jiā huì yì.) = Xin mời tham gia hội nghị." }
+    ],
+    "quizzes": [
+      {
+        "question": "“会议” nghĩa là gì?",
+        "options": ["Hội nghị", "Bài thuyết trình", "Cuộc họp"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“报告” nghĩa là gì?",
+        "options": ["Báo cáo", "Chủ trì", "Tham gia"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi đang chuẩn bị chủ đề của hội nghị” nói thế nào?",
+        "options": ["我正在准备会议的议题", "我准备了会议的报告", "我正在参与会议的讨论"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Tìm việc",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "工作", "pinyin": "gōng zuò", "meaning": "công việc" },
+      { "word": "招聘", "pinyin": "zhāo pìn", "meaning": "tuyển dụng" },
+      { "word": "面试", "pinyin": "miàn shì", "meaning": "phỏng vấn" },
+      { "word": "职位", "pinyin": "zhí wèi", "meaning": "vị trí" },
+      { "word": "简历", "pinyin": "jiǎn lì", "meaning": "sơ yếu lý lịch" },
+      { "word": "薪水", "pinyin": "xīn shuǐ", "meaning": "lương" },
+      { "word": "能力", "pinyin": "néng lì", "meaning": "khả năng" },
+      { "word": "经验", "pinyin": "jīng yàn", "meaning": "kinh nghiệm" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về công việc", "content": "你想找什么工作？(Nǐ xiǎng zhǎo shén me gōng zuò?) = Bạn muốn tìm công việc gì?" },
+      { "title": "Đưa ra yêu cầu công việc", "content": "我需要一份有挑战性的工作。(Wǒ xū yào yī fèn yǒu tiǎo zhàn xìng de gōng zuò.) = Tôi cần một công việc có thử thách." }
+    ],
+    "quizzes": [
+      {
+        "question": "“工作” nghĩa là gì?",
+        "options": ["Công việc", "Phỏng vấn", "Vị trí"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“简历” nghĩa là gì?",
+        "options": ["Sơ yếu lý lịch", "Phỏng vấn", "Lương"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi cần một công việc có thử thách” nói thế nào?",
+        "options": ["我需要一份有挑战性的工作", "我需要一个高薪的工作", "我需要一个轻松的工作"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Chuẩn bị thi cử",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "考试", "pinyin": "kǎo shì", "meaning": "kỳ thi" },
+      { "word": "复习", "pinyin": "fù xí", "meaning": "ôn tập" },
+      { "word": "试卷", "pinyin": "shì juàn", "meaning": "đề thi" },
+      { "word": "成绩", "pinyin": "chéng jī", "meaning": "kết quả" },
+      { "word": "题目", "pinyin": "tí mù", "meaning": "câu hỏi" },
+      { "word": "答案", "pinyin": "dá àn", "meaning": "đáp án" },
+      { "word": "压力", "pinyin": "yā lì", "meaning": "áp lực" },
+      { "word": "分数", "pinyin": "fēn shù", "meaning": "số điểm" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về kỳ thi", "content": "你什么时候考试？(Nǐ shén me shí hòu kǎo shì?) = Bạn thi lúc nào?" },
+      { "title": "Chuẩn bị thi", "content": "我正在复习考试内容。(Wǒ zhèng zài fù xí kǎo shì nèi róng.) = Tôi đang ôn tập nội dung thi." }
+    ],
+    "quizzes": [
+      {
+        "question": "“考试” nghĩa là gì?",
+        "options": ["Kỳ thi", "Kết quả", "Số điểm"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“复习” nghĩa là gì?",
+        "options": ["Ôn tập", "Đi học", "Làm bài tập"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Tôi đang ôn tập nội dung thi” nói thế nào?",
+        "options": ["我正在复习考试内容", "我在看电影", "我正在做作业"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Thăm bạn cũ",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "朋友", "pinyin": "péng yǒu", "meaning": "bạn bè" },
+      { "word": "久", "pinyin": "jiǔ", "meaning": "lâu" },
+      { "word": "见面", "pinyin": "jiàn miàn", "meaning": "gặp mặt" },
+      { "word": "聊天", "pinyin": "liáo tiān", "meaning": "nói chuyện" },
+      { "word": "回忆", "pinyin": "huí yì", "meaning": "hồi tưởng" },
+      { "word": "感动", "pinyin": "gǎn dòng", "meaning": "cảm động" },
+      { "word": "近况", "pinyin": "jìn kuàng", "meaning": "tình hình gần đây" },
+      { "word": "重逢", "pinyin": "chóng féng", "meaning": "tái ngộ" }
+    ],
+    "grammars": [
+      { "title": "Hỏi về tình trạng hiện tại", "content": "你最近怎么样？(Nǐ zuì jìn zěn me yàng?) = Dạo này bạn thế nào?" },
+      { "title": "Nói về cảm xúc khi gặp lại bạn cũ", "content": "见到你我很高兴。(Jiàn dào nǐ wǒ hěn gāo xìng.) = Gặp lại bạn tôi rất vui." }
+    ],
+    "quizzes": [
+      {
+        "question": "“朋友” nghĩa là gì?",
+        "options": ["Bạn bè", "Chị em", "Thầy cô"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“见面” nghĩa là gì?",
+        "options": ["Gặp mặt", "Nói chuyện", "Nhớ"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Câu “Gặp lại bạn tôi rất vui” nói thế nào?",
+        "options": ["见到你我很高兴", "我很高兴", "我见到你"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]

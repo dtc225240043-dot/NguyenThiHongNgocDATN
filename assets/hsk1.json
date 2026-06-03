@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "title": "Bài 1: Xin chào",
+    "videoUrl": "https://res.cloudinary.com/dibj4cvyl/video/upload/q_auto/f_auto/v1778256474/7805762234811_zryhsg.mp4",
+    "vocabularies": [
+      { "word": "你好", "pinyin": "nǐ hǎo", "meaning": "xin chào" },
+      { "word": "您好", "pinyin": "nín hǎo", "meaning": "xin chào (kính ngữ)" },
+      { "word": "早上好", "pinyin": "zǎo shang hǎo", "meaning": "chào buổi sáng" },
+      { "word": "再见", "pinyin": "zài jiàn", "meaning": "tạm biệt" },
+      { "word": "谢谢", "pinyin": "xiè xie", "meaning": "cảm ơn" },
+      { "word": "不客气", "pinyin": "bú kè qi", "meaning": "không có gì" },
+      { "word": "对不起", "pinyin": "duì bu qǐ", "meaning": "xin lỗi" },
+      { "word": "没关系", "pinyin": "méi guān xi", "meaning": "không sao" }
+    ],
+    "grammars": [
+      { "title": "Chào hỏi cơ bản", "content": "你好！(Nǐ hǎo!) = Xin chào!" },
+      { "title": "Cảm ơn và đáp lại", "content": "A: 谢谢！(Xiè xie!) = Cảm ơn!\nB: 不客气。(Bú kè qi.) = Không có gì." }
+    ],
+    "quizzes": [
+      {
+        "question": "“你好” nghĩa là gì?",
+        "options": ["Tạm biệt", "Xin chào", "Cảm ơn"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“谢谢” nghĩa là gì?",
+        "options": ["Cảm ơn", "Xin lỗi", "Không sao"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Khi muốn nói “tạm biệt”, dùng từ nào?",
+        "options": ["再见", "你好", "没关系"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bài 2: Giới thiệu bản thân",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "我", "pinyin": "wǒ", "meaning": "tôi" },
+      { "word": "你", "pinyin": "nǐ", "meaning": "bạn" },
+      { "word": "他", "pinyin": "tā", "meaning": "anh ấy" },
+      { "word": "她", "pinyin": "tā", "meaning": "cô ấy" },
+      { "word": "叫", "pinyin": "jiào", "meaning": "tên là" },
+      { "word": "名字", "pinyin": "míng zi", "meaning": "tên" },
+      { "word": "是", "pinyin": "shì", "meaning": "là" },
+      { "word": "学生", "pinyin": "xué sheng", "meaning": "học sinh" }
+    ],
+    "grammars": [
+      { "title": "我叫 + tên", "content": "我叫李明。(Wǒ jiào Lǐ Míng.) = Tôi tên là Lý Minh." },
+      { "title": "我是 + danh từ", "content": "我是学生。(Wǒ shì xué sheng.) = Tôi là học sinh." }
+    ],
+    "quizzes": [
+      {
+        "question": "“我” nghĩa là gì?",
+        "options": ["Bạn", "Tôi", "Anh ấy"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Câu “Tôi tên là Mai” nói thế nào?",
+        "options": ["我叫 Mai", "我是 Mai", "你好 Mai"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“我是学生” nghĩa là gì?",
+        "options": ["Tôi là học sinh", "Tôi tên là học sinh", "Bạn là học sinh"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Bài 3: Hỏi về nghề nghiệp",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "老师", "pinyin": "lǎo shī", "meaning": "giáo viên" },
+      { "word": "医生", "pinyin": "yī shēng", "meaning": "bác sĩ" },
+      { "word": "学生", "pinyin": "xué sheng", "meaning": "học sinh" },
+      { "word": "工人", "pinyin": "gōng rén", "meaning": "công nhân" },
+      { "word": "司机", "pinyin": "sī jī", "meaning": "lái xe" },
+      { "word": "护士", "pinyin": "hù shi", "meaning": "y tá" },
+      { "word": "工作", "pinyin": "gōng zuò", "meaning": "công việc" },
+      { "word": "什么", "pinyin": "shén me", "meaning": "cái gì" }
+    ],
+    "grammars": [
+      { "title": "你是做什么工作的?", "content": "你是做什么工作的？(Nǐ shì zuò shén me gōng zuò de?) = Bạn làm nghề gì?" },
+      { "title": "我是 + nghề nghiệp", "content": "我是医生。(Wǒ shì yī shēng.) = Tôi là bác sĩ." }
+    ],
+    "quizzes": [
+      {
+        "question": "“老师” nghĩa là gì?",
+        "options": ["Bác sĩ", "Giáo viên", "Học sinh"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“医生” nghĩa là gì?",
+        "options": ["Bác sĩ", "Công nhân", "Lái xe"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Muốn nói “Tôi là bác sĩ”, nói thế nào?",
+        "options": ["我是医生", "我叫医生", "你是医生"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bài 4: Quốc tịch",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "中国", "pinyin": "Zhōng guó", "meaning": "Trung Quốc" },
+      { "word": "越南", "pinyin": "Yuè nán", "meaning": "Việt Nam" },
+      { "word": "美国", "pinyin": "Měi guó", "meaning": "Mỹ" },
+      { "word": "英国", "pinyin": "Yīng guó", "meaning": "Anh" },
+      { "word": "日本", "pinyin": "Rì běn", "meaning": "Nhật Bản" },
+      { "word": "人", "pinyin": "rén", "meaning": "người" },
+      { "word": "哪", "pinyin": "nǎ", "meaning": "nào" },
+      { "word": "国家", "pinyin": "guó jiā", "meaning": "quốc gia" }
+    ],
+    "grammars": [
+      { "title": "你是哪国人?", "content": "你是哪国人？(Nǐ shì nǎ guó rén?) = Bạn là người nước nào?" },
+      { "title": "我是 + quốc gia + 人", "content": "我是越南人。(Wǒ shì Yuè nán rén.) = Tôi là người Việt Nam." }
+    ],
+    "quizzes": [
+      {
+        "question": "“越南人” nghĩa là gì?",
+        "options": ["Người Trung Quốc", "Người Việt Nam", "Người Mỹ"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“中国” nghĩa là gì?",
+        "options": ["Trung Quốc", "Việt Nam", "Nhật Bản"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“Bạn là người nước nào?” nói thế nào?",
+        "options": ["你是哪国人？", "你叫什么？", "你是老师吗？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bài 5: Thành viên trong gia đình",
+    "videoUrl": "https://res.cloudinary.com/dibj4cvyl/video/upload/q_auto/f_auto/v1778256474/7805762234811_zryhsg.mp4",
+    "vocabularies": [
+      { "word": "家", "pinyin": "jiā", "meaning": "nhà, gia đình" },
+      { "word": "爸爸", "pinyin": "bà ba", "meaning": "bố" },
+      { "word": "妈妈", "pinyin": "mā ma", "meaning": "mẹ" },
+      { "word": "哥哥", "pinyin": "gē ge", "meaning": "anh trai" },
+      { "word": "姐姐", "pinyin": "jiě jie", "meaning": "chị gái" },
+      { "word": "弟弟", "pinyin": "dì di", "meaning": "em trai" },
+      { "word": "妹妹", "pinyin": "mèi mei", "meaning": "em gái" },
+      { "word": "有", "pinyin": "yǒu", "meaning": "có" }
+    ],
+    "grammars": [
+      { "title": "我家有 + người", "content": "我家有爸爸、妈妈和妹妹。(Wǒ jiā yǒu bà ba, mā ma hé mèi mei.) = Nhà tôi có bố, mẹ và em gái." },
+      { "title": "你有……吗？", "content": "你有哥哥吗？(Nǐ yǒu gē ge ma?) = Bạn có anh trai không?" }
+    ],
+    "quizzes": [
+      {
+        "question": "“妈妈” nghĩa là gì?",
+        "options": ["Bố", "Mẹ", "Chị gái"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“哥哥” nghĩa là gì?",
+        "options": ["Anh trai", "Em trai", "Em gái"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“Bạn có em gái không?” nói thế nào?",
+        "options": ["你有妹妹吗？", "你是妹妹吗？", "我有妹妹吗？"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Bài 6: Cuộc sống hàng ngày",
+    "videoUrl": "https://res.cloudinary.com/demo/video/upload/sample.mp4",
+    "vocabularies": [
+      { "word": "吃饭", "pinyin": "chī fàn", "meaning": "ăn cơm" },
+      { "word": "喝水", "pinyin": "hē shuǐ", "meaning": "uống nước" },
+      { "word": "睡觉", "pinyin": "shuì jiào", "meaning": "ngủ" },
+      { "word": "起床", "pinyin": "qǐ chuáng", "meaning": "thức dậy" },
+      { "word": "去", "pinyin": "qù", "meaning": "đi" },
+      { "word": "回", "pinyin": "huí", "meaning": "về" },
+      { "word": "今天", "pinyin": "jīn tiān", "meaning": "hôm nay" },
+      { "word": "明天", "pinyin": "míng tiān", "meaning": "ngày mai" }
+    ],
+    "grammars": [
+      { "title": "Chủ ngữ + động từ + tân ngữ", "content": "我吃饭。(Wǒ chī fàn.) = Tôi ăn cơm." },
+      { "title": "今天 / 明天 + hành động", "content": "今天我去学校。(Jīn tiān wǒ qù xué xiào.) = Hôm nay tôi đi học." }
+    ],
+    "quizzes": [
+      {
+        "question": "“吃饭” nghĩa là gì?",
+        "options": ["Uống nước", "Ăn cơm", "Đi học"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "“睡觉” nghĩa là gì?",
+        "options": ["Ngủ", "Thức dậy", "Về nhà"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "“Hôm nay tôi uống nước” nói thế nào?",
+        "options": ["今天我喝水", "明天我睡觉", "我喝水今天"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]
