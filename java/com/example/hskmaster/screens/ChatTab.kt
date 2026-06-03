@@ -17,8 +17,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
-import androidx.compose.ui.graphics.SolidColor
-import com.example.hskmaster.data.remote.ChatGPTApi
 import kotlinx.coroutines.launch
 
 data class ChatMessage(
@@ -176,7 +174,7 @@ fun ChatTab() {
 
                         scope.launch {
                             try {
-                                val aiResponse = ChatGPTApi.getResponse(userMsg)
+                                val aiResponse = `ChatGPTApi.kt`.getResponse(userMsg)
                                 messages = messages + ChatMessage(aiResponse, false)
                             } catch (e: Exception) {
                                 messages = messages + ChatMessage(
